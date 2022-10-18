@@ -37,7 +37,7 @@ body {
 }
 @media screen and (max-width: 800px) {
     .horizontal-list li a{
-        font-size: .9rem;
+        font-size: .8rem;
     }
   }
  
